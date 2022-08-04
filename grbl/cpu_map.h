@@ -280,7 +280,7 @@
   // Define spindle output pins.
   #define SPINDLE_PWM_DDR   DDRH
   #define SPINDLE_PWM_PORT  PORTH
-  #define SPINDLE_PWM_BIT   5 // MEGA2560 Digital Pin 8 
+  #define SPINDLE_PWM_BIT   4 // MEGA2560 Digital Pin 8 
 
 #endif
 /* 
